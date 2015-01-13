@@ -1,0 +1,22 @@
+{
+  "name": "classpro",
+  "version": "0.0.0",
+  "description": "my ticketto get one million dollar",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "blog"
+  ],
+  "author": "Diksha Chavan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.10.1",
+    "express": "^4.10.7",
+    "hbs": "^2.8.0",
+    "path": "^0.11.14"
+  }
+}
